@@ -42,9 +42,9 @@ Minor: Spanish
 
 ### Professional Experience
 
-2019-2020  **Jeonbuk National University** (South Korea)  
+2019-2020  **Jeonbuk National University** (Jeonju, South Korea)  
 
-Academic Editor  
+Visiting Professor 
 Writing Center for Graduate Studies  
 
 2016-2019  **Dartmouth College** (Hanover, U.S.)  
