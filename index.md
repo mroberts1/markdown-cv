@@ -1,10 +1,16 @@
 ---
-layout: cv
-title: Martin Roberts's CV
+title: ""
+author: ""
+date: "6/24/2020"
+output: 
+  html_document: 
+    theme: lumen
+    css: media/davewhipp-screen.css
+    keep_md: yes
+    highlight: zenburn
 ---
-## Martin Roberts: Curriculum Vitae
-
-### Contact Information
+## Martin Roberts
+## Contact
 
 Email: dokoissho@pm.me    
 Twitter: [mroberts333](https://twitter.com/mroberts333)  
@@ -12,10 +18,7 @@ GitHub: [mroberts1](https://www.github.com/mroberts1)
 [ORCID](https://orcid.org/0000-0003-2680-9812)  
 [Google Scholar](https://scholar.google.com/citations?user=VyLeq7cAAAAJ&hl=en)  
 
-***  
-
-### Research & Teaching Interests
-
+## Research
 Global Media and Cultural Studies  
 Subcultural Communities and Identites  
 World Cinema  
@@ -25,120 +28,123 @@ Videogame Cultures
 Platformless Media  
 Cryptoculture
 
-***  
-
-### Education
-
-1981-1989 **Trinity College, Cambridge** (U.K)  
-
+## Education
+### 1981-1989 
+**Trinity College, Cambridge** (U.K)  
 Ph. D. in French Studies (1989)  
 
-1977-1981  **University of Birmingham** (U.K.)  
-
+### 1977-1981  
+**University of Birmingham** (U.K.)  
 Bachelor of Arts in French (First Class Honours)  
 Minor: Spanish  
+ 
+## Experience
 
-***  
-
-### Professional Experience
-
-2019-2020  **Jeonbuk National University** (South Korea)  
-
-Academic Editor  
+### 2019-2020  
+**Jeonbuk National University** (Jeonju, South Korea)  
+Visiting Professor  
 Writing Center for Graduate Studies  
 
-2016-2019  **Dartmouth College** (Hanover, U.S.)  
-
+### 2016-2019  
+**Dartmouth College** (Hanover, U.S.)  
 Visiting Lecturer  
 Department of Film & Media Studies  
 
-2016-2019  **Emerson College** (Boston, U.S.)  
-
+### 2016-2019  
+**Emerson College** (Boston, U.S.)  
 Affiliated Faculty  
 Department of Visual & Media Arts  
 
-2013-2015 **University of Derby** (U.K.)  
-
+### 2013-2015 
+**University of Derby** (U.K.)  
 Senior Lecturer in Film and Media Studies  
 School of Humanities  
 
-2012-2013 **Hallym University** (South Korea)  
-
+### 2012-2013 
+**Hallym University** (South Korea)  
 Visiting Professor  
 School of Communication  
 
-2012 **Yonsei University** (South Korea)  
-
+### 2012 
+**Yonsei University** (South Korea)  
 Visiting Lecturer  
 East Asia International College  
 
-1997-2011  **The New School** (New York, U.S.)  
+### 1997-2011  
+**The New School** (New York, U.S.)  
 
-2006-2011  B.A. Program in Liberal Arts / Eugene Lang College   
+### 2006-2011  
+B.A. Program in Liberal Arts / Eugene Lang College   
 Assistant Professor of Media Studies  
 
-2002-2006  B.A. Program in Liberal Arts  
+### 2002-2006  
+B.A. Program in Liberal Arts  
 Core Faculty  
- 
-1997-2000  M.A. Program in Media Studies   
+
+### 1997-2000  
+M.A. Program in Media Studies   
 Acting Online Program Coordinator
 Acting Director of Graduate Studies / Faculty Member  
 
-2000-2010 **New York University** (New York, U.S.)  
-
+### 2000-2010 
+**New York University** (New York, U.S.)  
 Adjuct Faculty  
 Department of Media, Culture, and Communication  
 School of Continuing and Professional Studies  
 
-1992-1997 **Massachusetts Institute of Technology**  
-
+### 1992-1997 
+**Massachusetts Institute of Technology**  
 Assistant Professor of French Studies  
 Department of Foreign Languages & Literatures  
 Film & Media Studies Program  
 
-1991-1992 **Wesleyan University** (Middletown, U.S.)  
-
+### 1991-1992 
+**Wesleyan University** (Middletown, U.S.)  
 Assistant Professor of French  
 Department of Romance Languages & Literatures  
 
-1998-1991 **Harvard University** (Cambridge, U.S.)  
-
+### 1998-1991 
+**Harvard University** (Cambridge, U.S.)  
 Lecturer in History and Literature  
 Concentration in History & Literature  
 
-***  
-
+## Publications
 ### Books
-
 [Cornelius's 'Fantasma.'](https://www.bloomsbury.com/us/corneliuss-fantasma-9781501330179/) New York: Bloomsbury Academic, 2019. 33 1/3 series.  
 
 *Michel Tournier:* Bricolage *and Cultural Mythology.* Stanford: Stanford French & Italian Studies, 1995.  
 
-#### Book Chapters
-
+### Book Chapters
 "*Baraka*: World Cinema and the Global Culture Industry." In Denilson Lopes and Andrea França, eds., _Cinema, Globalizacão e Interculturalidade_ [_Cinema, Globalization, and Interculturality_] (Chapecó, Brazil: Argos Editora Universitária, 2010).  
+
 "The Fashion Police: Governing the Self in *What Not To Wear*." In Diane Negra and Yvonne Tasker, eds., *Interrogating Postfeminism: Gender and the Politics of Popular Culture* (Duke University Press, 2007).  
-“Notes on the Global Underground: Subcultures and Globalization.” In Ken Gelder, ed., *The Subcultures Reader*, second edition (New York: Routledge, 2005).  
+
+“Notes on the Global Underground: Subcultures and Globalization.” In Ken Gelder, ed., *The Subcultures Reader*, second edition (New York: Routledge, 2005).   
+
 “Film Culture.” In Adam Muller, ed., *Concepts of Culture: Art, Politics, and Society* (Calgary: University of Calgary Press, 2005).  
+
 “Decoding D-Day: Multi-Channel Television at the Millennium.” In Mette Hjort and Scott Mackenzie, eds., *Purity and Provocation: Dogma ’95* (London: BFI, 2003).  
 “Indonesia: The Movie.” In Mette Hjort and Scott MacKenzie, eds., *Cinema and Nation* (New York: Routledge, 2000).  
+
 "Transnational Geographic: Perspectives on *Baraka.*" In Isabel Santaolalla, ed., *New Exoticisms: Changing Patterns in the Construction of Otherness* (Amsterdam and Atlanta, GA: Rodopi, 2000).  
+
 “World Music: The Relocation of Culture.” *World Culture Report 1998: Culture, Creativity and Markets* (Paris: UNESCO, 1998).  
 
-#### Articles (Peer-Reviewed)
-
+### Articles 
 “‘A New Stereophonic Sound Spectacular’: Shibuya-kei as Transnational Soundscape.” *Popular Music* 32, no. 1 (January 2013) 111-123.  
+
 *Baraka*: World Cinema and the Global Culture Industry." *Cinema Journal* 37, no. 3 (Spring, 1998), 62-82.  
-“The Self in the Other: Ethnographic Film, Surrealism, Politics.” *Visual Anthropology* 8(1) (1996): 79-94.  
-“World Music and the Global Cultural Economy.” *Diaspora: a Journal of Transnational Studies* 2(2) (1992): 229-242.  
+
+“The Self in the Other: Ethnographic Film, Surrealism, Politics.” *Visual Anthropology* 8 (1) (1996): 79-94.  
+
+“World Music and the Global Cultural Economy.” *Diaspora: a Journal of Transnational Studies* 2 (2) (1992): 229-242.  
+
 “Mutations of the Spectacle: *Vitrines*, Arcades, Mannequins.” *French Cultural Studies* (October 1991), 211-49.  
 
-#### Magazines & Newsletters
-
+### Other
 “Indonesia’s Gamelan: Not Just World Music.” *UNESCO Sources* 103 (July-August 1998).  
 
-#### Web/Internet
-
+### Web/Internet
 [“‘I’m Riding a Panda!’ Japanese Cult Media and Hipster Cosmopolitanism.”](https://www.flowjournal.org/2009/04/im-riding-a-panda-japanese-cult-media-and-hipster-cosmopolitanism-martin-roberts-the-new-school/) *Flow* 9, no. 10 (April 2009). Dept. of Radio-TV-Film, University of Texas, Austin.  
 
 [“This Was England: British Television And/As Cultural Heritage.”](https://www.flowjournal.org/2009/01/this-was-england-british-television-andas-cultural-heritage-martin-roberts-the-new-schoo/) *Flow* 9, no. 5 (January 2009). Dept. of Radio-TV-Film, University of Texas, Austin.  
@@ -147,10 +153,7 @@ Concentration in History & Literature
 
 “Keyword: Cosmopolitanism.” *Critical World: Thinking Globalization Through Music* website 2008, Université de Montréal.  
 
-***  
-
-### Keynotes & Invited Lectures
-
+## Invited Lectures
 Panel discussant, screening of the documentary film *Anthropocene: The Human Epoch*. Envisioning the World screening series, Closeup Film Theatre, London, 2019.  
 
 “Reboot, Reset, React: Television in the Age of Social Media.” Hallym University, Media School. Chuncheon, South Korea, 18 June 2018.  
@@ -179,10 +182,7 @@ Discussant, panel on “Portable Cultures, Global Identities,” The Public Thea
 
 “World Music and the Global Cultural Economy.” Panelist, “Producão Cultural: Centro/Periferia?” conference, Universidade Federal de Alagoas, Maceió, Brazil, 1992.  
 
-***  
-
-### Papers & Presentations
-
+## Conferences
 "Three-Dimensional Music: Cornelius’s Animated Soundworlds." Japan. Society for Popular Music (JASPM) conference, Osaka, Japan, December 2019.
 
 "Tropical Dandies: *Merry Christmas, Mr. Lawrence*, Exoticism, and Bamboo Music." Society for Cinema and Media Studies (SCMS) conference, Seattle, 13-17 March 2019.
@@ -271,58 +271,48 @@ Discussant, panel on “Portable Cultures, Global Identities,” The Public Thea
 
 "From Rousseau to Lévi-Strauss: Michel Tournier’s Noble Savages." NEMLA conference, Wilmington, panel on colonialism, 1989.
 
-***  
+## Fellowships and Awards  
+### 2008
+Fellow, Leslie Center for the Humanities, Dartmouth College, Winter Term  
 
-### Fellowships and Awards
+### 1994
+Old Dominion Fellowship, MIT (one semester research in Paris and Dakar, Senegal)  
+### 1984-1985
+French Government Scholarship (for dissertation research in Paris)  
 
-2008: Fellow, Leslie Center for the Humanities, Dartmouth College, Winter Term  
+### 1981-1984
+Major State Studentship, Department of Education and Science, UK (3-year, for dissertation research)  
 
-1994: Old Dominion Fellowship, MIT (one semester research in Paris and Dakar, Senegal)  
+## Courses: Undergraduate
 
-1984-1985: French Government Scholarship (for dissertation research in Paris)  
-
-1981-1984: Major State Studentship, Department of Education and Science, UK (3-year, for dissertation research)  
-
-***  
-
-### Courses: Undergraduate
-
-<br>
-
-#### Dartmouth College
-
+**Dartmouth College**  
 TV Without Borders   
 Television & New Media  
 Lifestyle Media  
 Global Documentary & Transnational Cinema    
 Digital Arts & Culture  
 
-#### Emerson College
-
+**Emerson College**  
 Soundtracks: Music and Audiovisual Media      
 Movements in World Cinema    
 History of Documentary  
 Studies in Digital Media & Culture      
-History of Media Arts II    
+History of Media Arts II  
 
-#### University of Derby
-
+**University of Derby**  
 Digital Gaming: Technology and Social Practice  
 Television Outside The Box  
 Media, Culture, Power: European Cultural Studies      
 Independent Research Project in Media Studies  
 
-#### East Asia International College, Yonsei University
-
+**Yonsei University (East Asia International College)**  
 English Writing Tutorial 2  
 
-#### Hallym University
-
+**Hallym University**  
 Global Television  
 British Cultural Studies  
 
-#### The New School
-
+**The New School**  
 Beatlemedia: Popular Music and Cultural Heritage  
 Cinemas of Liberation: Third Cinema and Beyond  
 Introduction to Cultural Analysis  
@@ -346,14 +336,12 @@ Satellite Television: A Cultural History
 Media, Globalization, and Culture    
 Senior Seminar: Border Cultures  
 
-#### New York University
-
+**New York University**  
 Mass Media, Global Communication, and the Future  
 Media and Identity  
 Introduction to Media Studies  
 
-#### Massachusetts Institute  of Technology
-
+**Massachusetts Institute  of Technology**  
 Introduction to Media Studes  
 Global Culture  
 Counter-Cultures  
@@ -365,118 +353,92 @@ The French Short Story
 The French Novel in the Twentieth Century  
 Everyday Life & Popular Culture in Contemporary France  
 
-#### Wesleyan University
-
+**Wesleyan University**  
 French Surrealism and The Avant-Garde  
 Reinventing Everyday Life: French Popular Culture  
 Introduction to French Literature & Culture  
 Composition & Conversation: Intermediate French Language  
 
-#### Harvard University
-
+**Harvard University**  
 Junior and Senior Tutorial in History and Literature  
 
-<br>
+## Courses: Graduate
 
-### Courses: Graduate
-
-#### M.A. Program in Media Studies, The New School
-
+**M.A. Program in Media Studies, The New School**  
 Global Television  
 Foundations of Media Theory  
 Interactive Media Studies  
 Interactive Documentary Digital Futures  
 Chaotic Media Systems  
 
-***  
+## Professional Service  
 
-### Professional Service
+### 2008  
+**Board Membership**  
+Editorial Committee, _Encounters: An International Journal for the Study of Society and Culture_, Zayed University, Dubai (2008-present).  
 
-#### Board Membership
+### 2004  
+Advisory Board, _Critical World: Thinking Globalization Through Music_, website, Université de Montréal, 2008.  
 
-2008: Editorial Committee, _Encounters: An International Journal for the Study of Society and Culture_, Zayed University, Dubai (2008-present).
+### 2013-2014  
+**External Examinations**  
+M.A. in Japanese Cultural Studies, Birkbeck College, London.
 
-2004: Advisory Board, _Critical World: Thinking Globalization Through Music_,website, Université de Montréal, 2008.
+### 2013  
+**Peer Review (books, journals)**  
+Book proposal, _K-Pop: The Art of Cultural Capital_, for Ashgate Publishing.  
 
-#### External Examinations
+### 2009  
+“Tim Gunn’s Guide to Patriarchy: Gender, Fashion, and Heteronormativity,” _Journal of Communication Inquiry_.  
 
-2013-2014: M.A. in Japanese Cultural Studies, Birkbeck College, London.
+### 2009  
+“Transculturated Sites and the Asia Within: Notes from a Field Observation in Singapore,” _Encounters: An International Journal for the Study of Society and Culture_.  
 
-#### Peer Review (books, journals)
+### 2008  
+Anne McKnight and Sharon Hayashi, “Goodbye Kitty, Hello War.” _Critical Worlds_ website.  
 
-2013: Book proposal, _K-Pop: The Art of Cultural Capital_, for Ashgate Publishing.
+### 2007  
+“Being Real in the Mobile Reel: A Case Study on the Rise of Convergent Mobile Media, Modes of Realism and a Sense of Place,” _Convergence_ journal.  
 
-2009: “Tim Gunn’s Guide to Patriarchy: Gender, Fashion, and Heteronormativity,” _Journal of Communication Inquiry_.
+### 2007  
+“Images and Sounds in Hypermedia: From Correspondence to Fusion,” for _Music, Sound, and the Moving Image_.  
 
-2009: “Transculturated Sites and the Asia Within: Notes from a Field Observation in Singapore,” _Encounters: An International Journal for the Study of Society and Culture_.
+### 2003  
+Book proposal on national cinema by Valentina Vitali and Paul Willemen, for British Film Institute.  
 
-2008: Anne McKnight and Sharon Hayashi, “Goodbye Kitty, Hello War.” _Critical Worlds_ website.
+## Academic Service
 
-2007: “Being Real in the Mobile Reel: A Case Study on the Rise of Convergent Mobile Media, Modes of Realism and a Sense of Place,” _Convergence_ journal.
-
-2007: “Images and Sounds in Hypermedia: From Correspondence to Fusion,” for _Music, Sound, and the Moving Image_.
-
-2003: Book proposal on national cinema by Valentina Vitali and Paul Willemen, for British Film Institute.  
-
-<br>
-
-### Academic Service
-
-#### The New School
-
-##### Search Committees
-
-Food Studies, New School for General Studies
-
-Cultural and Media Studies, Eugene Lang College
-
+### The New School
+**Search Committees**  
+Food Studies, New School for General Studies 
+Cultural and Media Studies, Eugene Lang College  
 Ethnomusicology, Eugene Lang College / New School for Jazz and Contemporary Music
-
 Humanities, Eugene Lang College / Graduate Faculty
 
-##### Other
-
+**Other**  
 Design & Social Science Curricular Task Force
-
-Academic Technology Policy, Procedure, and Planning Committee
-
-Reviewer, Provost’s Oﬃce Multi-Year Appointment Committee
-
-Bachelor’s Program in Liberal Arts, Media Studies & Film Committee
-
-Bachelor’s Program in Liberal Arts, Democracy & Cultural Pluralism (DCP) Committee
-
-Eugene Lang College: Academic Curriculum Committee
-
-Media and Cultural Studies Major Committee
-
-Faculty Advisory Committee  Academic Aﬀairs Committee
-
-Committee on Degree Programs Diversity Task Force
-
+Academic Technology Policy, Procedure, and Planning Committee  
+Reviewer, Provost’s Oﬃce Multi-Year Appointment Committee  
+Bachelor’s Program in Liberal Arts, Media Studies & Film Committee  
+Bachelor’s Program in Liberal Arts, Democracy & Cultural Pluralism (DCP) Committee  
+Eugene Lang College: Academic Curriculum Committee  
+Media and Cultural Studies Major Committee  
+Faculty Advisory Committee  Academic Aﬀairs Committee  
+Committee on Degree Programs Diversity Task Force  
 Committee on Research (assesssing ethical issues of social-sciences research project proposals)
 
 ### MIT
+**Film & Media Studies Program**  
+Film & Media Studies Curriculum Committee  
+Co-design and co-instructor (with Henry Jenkins) of new Introduction to Media Studies lecture course  
+Co-author (with Henry Jenkins) of report to Dean of Humanities, “Film and Media Studies at MIT: Goals and Future Directions”  
+Communications Forum: “Democracy in Cyberspace: Society, Politics, and the Virtual Republic.” Panel convenor, presenter, and moderator  
+Cultural Studies Project: Cultural Studies Project Steering Committee  
 
-#### Film & Media Studies Program
-
-Film & Media Studies Curriculum Committee
-
-Co-design and co-instructor (with Henry Jenkins) of new Introduction to Media Studies lecture course
-
-Co-author (with Henry Jenkins) of report to Dean of Humanities, “Film and Media Studies at MIT: Goals and Future Directions”
-
-Communications Forum: “Democracy in Cyberspace: Society, Politics, and the Virtual Republic.” Panel convenor, presenter, and moderator
-
-Cultural Studies Project: Cultural Studies Project Steering Committee
-
-#### Department of Romance Languages & Literatures
-
+**Department of Romance Languages & Literatures**  
 Academic advisor, Minor in French
-
 Search Committee, Teaching of English as a Foreign Language
-
-Teaching Evaluation Committee
+Teaching Evaluation Committee  
 
 ***  
 
