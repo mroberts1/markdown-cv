@@ -480,4 +480,4 @@ Teaching Evaluation Committee
 
 ***  
 
-_Last updated: 15 June 2020_
+_Last updated: 22 June 2020_
