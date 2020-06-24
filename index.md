@@ -108,7 +108,11 @@ Department of Romance Languages & Literatures
 Lecturer in History and Literature  
 Concentration in History & Literature  
 
-## Publications
+## Publications  
+
+### In Development
+*Cryptomedia* (book)
+
 ### Books
 [Cornelius's 'Fantasma.'](https://www.bloomsbury.com/us/corneliuss-fantasma-9781501330179/) New York: Bloomsbury Academic, 2019. 33 1/3 series.  
 
